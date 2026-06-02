@@ -8,7 +8,10 @@
 
 # Aghazeh
 
-[🇮🇷 فارسی](README.fa.md) | 🇬🇧 English
+<p align="center">
+  <b>🌐 Language</b><br>
+  🇬🇧 English | <a href="./README.fa.md">🇮🇷 فارسی</a>
+</p>
 
 A minimal web application for finding the earliest archived snapshot of a website using the Internet Archive (Wayback Machine).
 
