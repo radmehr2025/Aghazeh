@@ -8,7 +8,7 @@
 
 # Aghazeh
 
-📖 فارسی: [مشاهده نسخه فارسی README](README.fa.md)
+[🇮🇷 فارسی](README.fa.md) | 🇬🇧 English
 
 A minimal web application for finding the earliest archived snapshot of a website using the Internet Archive (Wayback Machine).
 
