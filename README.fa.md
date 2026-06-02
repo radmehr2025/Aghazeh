@@ -5,7 +5,7 @@
 <p align="center">
   Find the first archived version of any website.
 </p>
-# آغازه
+## آغازه
 
 <p align="center">
   <b>🌐 زبان</b><br>
