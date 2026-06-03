@@ -3,7 +3,11 @@
 </p>
 
 <p align="center">
-  Find the first archived version of any website.
+  <img src="screenshots/result.jpg" width="700">
+</p>
+
+<p align="center">
+  اولین نسخه بایگانی شده هر وب سایتی را پیدا کنید.
 </p>
 
 ## آغازه
