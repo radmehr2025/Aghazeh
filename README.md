@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="screenshots/result.jpg" width="700">
+</p>
+
+<p align="center">
   Find the first archived version of any website.
 </p>
 
